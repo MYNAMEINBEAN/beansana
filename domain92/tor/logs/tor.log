@@ -1,0 +1,143 @@
+Aug 15 01:21:02.000 [notice] Tor 0.4.8.17 (git-e41649c9a34f39f1) opening new log file.
+Aug 15 01:21:02.618 [notice] We compiled with OpenSSL 30000110: OpenSSL 3.0.17 1 Jul 2025 and we are running with OpenSSL 30000110: 3.0.17. These two versions should be binary compatible.
+Aug 15 01:21:02.626 [notice] Tor 0.4.8.17 (git-e41649c9a34f39f1) running on Windows 8 [or later] with Libevent 2.1.12-stable, OpenSSL 3.0.17, Zlib 1.3.1, Liblzma N/A, Libzstd N/A and Unknown N/A as libc.
+Aug 15 01:21:02.626 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
+Aug 15 01:21:02.638 [notice] Read configuration file "C:\tor\torrc".
+Aug 15 01:21:02.638 [warn] Path for GeoIPFile (<default>) is relative and will resolve to C:\tor\<default>. Is this what you wanted?
+Aug 15 01:21:02.638 [warn] Path for GeoIPv6File (<default>) is relative and will resolve to C:\tor\<default>. Is this what you wanted?
+Aug 15 01:21:02.640 [notice] Opening Socks listener on 127.0.0.1:9050
+Aug 15 01:21:02.640 [notice] Opened Socks listener connection (ready) on 127.0.0.1:9050
+Aug 15 01:21:02.640 [notice] Opening Control listener on 127.0.0.1:9051
+Aug 15 01:21:02.640 [notice] Opened Control listener connection (ready) on 127.0.0.1:9051
+Aug 15 01:21:02.000 [notice] Set list of supported TLS groups to: P-256:X25519:P-224
+Aug 15 01:21:02.000 [notice] Bootstrapped 0% (starting): Starting
+Aug 15 01:21:02.000 [notice] Starting with guard context "default"
+Aug 15 01:21:03.000 [notice] Bootstrapped 5% (conn): Connecting to a relay
+Aug 15 01:21:03.000 [notice] Bootstrapped 10% (conn_done): Connected to a relay
+Aug 15 01:21:05.000 [notice] Bootstrapped 14% (handshake): Handshaking with a relay
+Aug 15 01:21:05.000 [notice] Bootstrapped 15% (handshake_done): Handshake with a relay done
+Aug 15 01:21:05.000 [notice] Bootstrapped 20% (onehop_create): Establishing an encrypted directory connection
+Aug 15 01:21:05.000 [notice] Bootstrapped 25% (requesting_status): Asking for networkstatus consensus
+Aug 15 01:21:05.000 [notice] Bootstrapped 30% (loading_status): Loading networkstatus consensus
+Aug 15 01:21:07.000 [notice] I learned some more directory information, but not enough to build a circuit: We have no usable consensus.
+Aug 15 01:21:07.000 [notice] Bootstrapped 40% (loading_keys): Loading authority key certs
+Aug 15 01:21:07.000 [notice] The current consensus has no exit nodes. Tor can only build internal paths, such as paths to onion services.
+Aug 15 01:21:07.000 [notice] Bootstrapped 45% (requesting_descriptors): Asking for relay descriptors
+Aug 15 01:21:07.000 [notice] I learned some more directory information, but not enough to build a circuit: We need more microdescriptors: we have 0/9081, and can only build 0% of likely paths. (We have 0% of guards bw, 0% of midpoint bw, and 0% of end bw (no exits in consensus, using mid) = 0% of path bw.)
+Aug 15 01:21:08.000 [notice] Bootstrapped 50% (loading_descriptors): Loading relay descriptors
+Aug 15 01:21:09.000 [notice] The current consensus contains exit nodes. Tor can build exit and internal paths.
+Aug 15 01:21:12.000 [notice] Bootstrapped 55% (loading_descriptors): Loading relay descriptors
+Aug 15 01:21:13.000 [notice] Bootstrapped 61% (loading_descriptors): Loading relay descriptors
+Aug 15 01:21:13.000 [notice] Bootstrapped 69% (loading_descriptors): Loading relay descriptors
+Aug 15 01:21:13.000 [notice] Bootstrapped 75% (enough_dirinfo): Loaded enough directory info to build circuits
+Aug 15 01:21:13.000 [notice] Bootstrapped 90% (ap_handshake_done): Handshake finished with a relay to build circuits
+Aug 15 01:21:13.000 [notice] Bootstrapped 95% (circuit_create): Establishing a Tor circuit
+Aug 15 01:21:14.000 [notice] Bootstrapped 100% (done): Done
+Aug 15 01:24:09.000 [notice] Interrupt: exiting cleanly.
+Aug 15 01:24:23.000 [notice] Tor 0.4.8.17 (git-e41649c9a34f39f1) opening log file.
+Aug 15 01:24:23.749 [notice] We compiled with OpenSSL 30000110: OpenSSL 3.0.17 1 Jul 2025 and we are running with OpenSSL 30000110: 3.0.17. These two versions should be binary compatible.
+Aug 15 01:24:23.755 [notice] Tor 0.4.8.17 (git-e41649c9a34f39f1) running on Windows 8 [or later] with Libevent 2.1.12-stable, OpenSSL 3.0.17, Zlib 1.3.1, Liblzma N/A, Libzstd N/A and Unknown N/A as libc.
+Aug 15 01:24:23.755 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
+Aug 15 01:24:23.767 [notice] Read configuration file "C:\tor\torrc".
+Aug 15 01:24:23.768 [warn] Path for GeoIPFile (<default>) is relative and will resolve to C:\tor\<default>. Is this what you wanted?
+Aug 15 01:24:23.768 [warn] Path for GeoIPv6File (<default>) is relative and will resolve to C:\tor\<default>. Is this what you wanted?
+Aug 15 01:24:23.769 [notice] Opening Socks listener on 127.0.0.1:9050
+Aug 15 01:24:23.769 [notice] Opened Socks listener connection (ready) on 127.0.0.1:9050
+Aug 15 01:24:23.769 [notice] Opening Control listener on 127.0.0.1:9051
+Aug 15 01:24:23.769 [notice] Opened Control listener connection (ready) on 127.0.0.1:9051
+Aug 15 01:24:23.000 [notice] Set list of supported TLS groups to: P-256:X25519:P-224
+Aug 15 01:24:23.000 [notice] Bootstrapped 0% (starting): Starting
+Aug 15 01:24:25.000 [notice] Starting with guard context "default"
+Aug 15 01:24:26.000 [notice] Bootstrapped 5% (conn): Connecting to a relay
+Aug 15 01:24:26.000 [notice] Bootstrapped 10% (conn_done): Connected to a relay
+Aug 15 01:24:26.000 [notice] Bootstrapped 14% (handshake): Handshaking with a relay
+Aug 15 01:24:26.000 [notice] Bootstrapped 15% (handshake_done): Handshake with a relay done
+Aug 15 01:24:26.000 [notice] Bootstrapped 75% (enough_dirinfo): Loaded enough directory info to build circuits
+Aug 15 01:24:26.000 [notice] Bootstrapped 90% (ap_handshake_done): Handshake finished with a relay to build circuits
+Aug 15 01:24:26.000 [notice] Bootstrapped 95% (circuit_create): Establishing a Tor circuit
+Aug 15 01:24:27.000 [notice] Bootstrapped 100% (done): Done
+Aug 15 01:28:18.000 [notice] Interrupt: exiting cleanly.
+Aug 15 01:28:22.000 [notice] Tor 0.4.8.17 (git-e41649c9a34f39f1) opening log file.
+Aug 15 01:28:22.164 [notice] We compiled with OpenSSL 30000110: OpenSSL 3.0.17 1 Jul 2025 and we are running with OpenSSL 30000110: 3.0.17. These two versions should be binary compatible.
+Aug 15 01:28:22.170 [notice] Tor 0.4.8.17 (git-e41649c9a34f39f1) running on Windows 8 [or later] with Libevent 2.1.12-stable, OpenSSL 3.0.17, Zlib 1.3.1, Liblzma N/A, Libzstd N/A and Unknown N/A as libc.
+Aug 15 01:28:22.170 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
+Aug 15 01:28:22.181 [notice] Read configuration file "C:\tor\torrc".
+Aug 15 01:28:22.181 [warn] Path for GeoIPFile (<default>) is relative and will resolve to C:\tor\<default>. Is this what you wanted?
+Aug 15 01:28:22.181 [warn] Path for GeoIPv6File (<default>) is relative and will resolve to C:\tor\<default>. Is this what you wanted?
+Aug 15 01:28:22.182 [notice] Opening Socks listener on 127.0.0.1:9050
+Aug 15 01:28:22.183 [notice] Opened Socks listener connection (ready) on 127.0.0.1:9050
+Aug 15 01:28:22.183 [notice] Opening Control listener on 127.0.0.1:9051
+Aug 15 01:28:22.183 [notice] Opened Control listener connection (ready) on 127.0.0.1:9051
+Aug 15 01:28:22.000 [notice] Set list of supported TLS groups to: P-256:X25519:P-224
+Aug 15 01:28:22.000 [notice] Bootstrapped 0% (starting): Starting
+Aug 15 01:28:23.000 [notice] Starting with guard context "default"
+Aug 15 01:28:24.000 [notice] Bootstrapped 5% (conn): Connecting to a relay
+Aug 15 01:28:24.000 [notice] Bootstrapped 10% (conn_done): Connected to a relay
+Aug 15 01:28:24.000 [notice] Bootstrapped 14% (handshake): Handshaking with a relay
+Aug 15 01:28:25.000 [notice] Bootstrapped 15% (handshake_done): Handshake with a relay done
+Aug 15 01:28:25.000 [notice] Bootstrapped 75% (enough_dirinfo): Loaded enough directory info to build circuits
+Aug 15 01:28:25.000 [notice] Bootstrapped 90% (ap_handshake_done): Handshake finished with a relay to build circuits
+Aug 15 01:28:25.000 [notice] Bootstrapped 95% (circuit_create): Establishing a Tor circuit
+Aug 15 01:28:25.000 [notice] Bootstrapped 100% (done): Done
+Aug 15 01:29:18.000 [notice] Interrupt: exiting cleanly.
+Aug 15 01:29:24.000 [notice] Tor 0.4.8.17 (git-e41649c9a34f39f1) opening log file.
+Aug 15 01:29:24.786 [notice] We compiled with OpenSSL 30000110: OpenSSL 3.0.17 1 Jul 2025 and we are running with OpenSSL 30000110: 3.0.17. These two versions should be binary compatible.
+Aug 15 01:29:24.792 [notice] Tor 0.4.8.17 (git-e41649c9a34f39f1) running on Windows 8 [or later] with Libevent 2.1.12-stable, OpenSSL 3.0.17, Zlib 1.3.1, Liblzma N/A, Libzstd N/A and Unknown N/A as libc.
+Aug 15 01:29:24.792 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
+Aug 15 01:29:24.803 [notice] Read configuration file "C:\tor\torrc".
+Aug 15 01:29:24.805 [notice] Opening Socks listener on 127.0.0.1:9050
+Aug 15 01:29:24.805 [notice] Opened Socks listener connection (ready) on 127.0.0.1:9050
+Aug 15 01:29:24.805 [notice] Opening Control listener on 127.0.0.1:9051
+Aug 15 01:29:24.805 [notice] Opened Control listener connection (ready) on 127.0.0.1:9051
+Aug 15 01:29:24.000 [notice] Parsing GEOIP IPv4 file C:\tor\geoip.
+Aug 15 01:29:24.000 [notice] Parsing GEOIP IPv6 file C:\tor\geoip6.
+Aug 15 01:29:25.000 [notice] Set list of supported TLS groups to: P-256:X25519:P-224
+Aug 15 01:29:25.000 [notice] Bootstrapped 0% (starting): Starting
+Aug 15 01:29:26.000 [notice] Starting with guard context "default"
+Aug 15 01:29:27.000 [notice] Bootstrapped 5% (conn): Connecting to a relay
+Aug 15 01:29:27.000 [notice] Bootstrapped 10% (conn_done): Connected to a relay
+Aug 15 01:29:27.000 [notice] Bootstrapped 14% (handshake): Handshaking with a relay
+Aug 15 01:29:28.000 [notice] Bootstrapped 15% (handshake_done): Handshake with a relay done
+Aug 15 01:29:28.000 [notice] Bootstrapped 75% (enough_dirinfo): Loaded enough directory info to build circuits
+Aug 15 01:29:28.000 [notice] Bootstrapped 90% (ap_handshake_done): Handshake finished with a relay to build circuits
+Aug 15 01:29:28.000 [notice] Bootstrapped 95% (circuit_create): Establishing a Tor circuit
+Aug 15 01:29:28.000 [notice] Bootstrapped 100% (done): Done
+Aug 15 01:29:48.000 [notice] Interrupt: exiting cleanly.
+Aug 15 01:29:57.000 [notice] Tor 0.4.8.17 (git-e41649c9a34f39f1) opening log file.
+Aug 15 01:29:57.774 [notice] We compiled with OpenSSL 30000110: OpenSSL 3.0.17 1 Jul 2025 and we are running with OpenSSL 30000110: 3.0.17. These two versions should be binary compatible.
+Aug 15 01:29:57.780 [notice] Tor 0.4.8.17 (git-e41649c9a34f39f1) running on Windows 8 [or later] with Libevent 2.1.12-stable, OpenSSL 3.0.17, Zlib 1.3.1, Liblzma N/A, Libzstd N/A and Unknown N/A as libc.
+Aug 15 01:29:57.780 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
+Aug 15 01:29:57.791 [notice] Read configuration file "C:\tor\torrc".
+Aug 15 01:29:57.792 [warn] Path for GeoIPFile (<default>) is relative and will resolve to C:\tor\<default>. Is this what you wanted?
+Aug 15 01:29:57.792 [warn] Path for GeoIPv6File (<default>) is relative and will resolve to C:\tor\<default>. Is this what you wanted?
+Aug 15 01:29:57.793 [notice] Opening Socks listener on 127.0.0.1:9050
+Aug 15 01:29:57.793 [notice] Opened Socks listener connection (ready) on 127.0.0.1:9050
+Aug 15 01:29:57.793 [notice] Opening Control listener on 127.0.0.1:9051
+Aug 15 01:29:57.793 [notice] Opened Control listener connection (ready) on 127.0.0.1:9051
+Aug 15 01:29:57.000 [notice] Set list of supported TLS groups to: P-256:X25519:P-224
+Aug 15 01:29:57.000 [notice] Bootstrapped 0% (starting): Starting
+Aug 15 01:29:59.000 [notice] Starting with guard context "default"
+Aug 15 01:30:00.000 [notice] Bootstrapped 5% (conn): Connecting to a relay
+Aug 15 01:30:00.000 [notice] Bootstrapped 10% (conn_done): Connected to a relay
+Aug 15 01:30:00.000 [notice] Bootstrapped 14% (handshake): Handshaking with a relay
+Aug 15 01:30:00.000 [notice] Bootstrapped 15% (handshake_done): Handshake with a relay done
+Aug 15 01:30:00.000 [notice] Bootstrapped 75% (enough_dirinfo): Loaded enough directory info to build circuits
+Aug 15 01:30:00.000 [notice] Bootstrapped 90% (ap_handshake_done): Handshake finished with a relay to build circuits
+Aug 15 01:30:00.000 [notice] Bootstrapped 95% (circuit_create): Establishing a Tor circuit
+Aug 15 01:30:01.000 [notice] Bootstrapped 100% (done): Done
+Aug 15 01:31:59.000 [notice] New control connection opened from 127.0.0.1.
+Aug 15 01:32:38.000 [notice] New control connection opened from 127.0.0.1.
+Aug 15 01:33:21.000 [notice] New control connection opened from 127.0.0.1.
+Aug 15 01:33:22.000 [notice] New control connection opened from 127.0.0.1.
+Aug 15 01:33:22.000 [notice] Rate limiting NEWNYM request: delaying by 9 second(s)
+Aug 15 01:34:03.000 [notice] New control connection opened from 127.0.0.1.
+Aug 15 01:34:41.000 [notice] New control connection opened from 127.0.0.1.
+Aug 15 01:40:15.000 [notice] New control connection opened from 127.0.0.1.
+Aug 15 01:41:16.000 [notice] New control connection opened from 127.0.0.1.
+Aug 15 01:41:58.000 [notice] New control connection opened from 127.0.0.1.
+Aug 15 01:42:39.000 [notice] New control connection opened from 127.0.0.1.
+Aug 15 01:43:21.000 [notice] New control connection opened from 127.0.0.1.
+Aug 15 01:44:00.000 [notice] New control connection opened from 127.0.0.1.
+Aug 15 01:44:40.000 [notice] New control connection opened from 127.0.0.1.
+Aug 15 01:45:24.000 [notice] New control connection opened from 127.0.0.1.
+Aug 15 01:46:04.000 [notice] New control connection opened from 127.0.0.1.
