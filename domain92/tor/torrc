@@ -1,0 +1,19 @@
+# Tor Configuration File - No GeoIP
+SocksPort 9050
+ControlPort 9051
+CookieAuthentication 1
+
+# Data directory
+DataDirectory C:/tor/data
+
+# Logging with more detail to see what's happening
+Log notice stdout
+Log notice file C:/tor/logs/tor.log
+
+# Network settings
+ExitRelay 0
+ClientOnly 1
+
+# Timeout settings
+CircuitBuildTimeout 10
+LearnCircuitBuildTimeout 0
