@@ -1,0 +1,28 @@
+# Tor state file last generated on 2025-08-15 01:39:16 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Dormant 0
+Guard in=default rsa_id=E664021B76B355EFDB7628938D97E4ACE61B06C5 nickname=fluffypancakes008nl sampled_on=2025-08-12T23:46:59 sampled_idx=0 sampled_by=0.4.8.17 listed=1 confirmed_on=2025-08-05T08:32:31 confirmed_idx=1 pb_circ_attempts=29.000000 pb_circ_successes=28.000000 pb_successful_circuits_closed=27.000000 pb_collapsed_circuits=1.000000 pb_timeouts=1.000000
+Guard in=default rsa_id=C45FE5C41ACC37E4EA4687FFC54A74F124739DAF nickname=frozone sampled_on=2025-08-06T06:06:09 sampled_idx=1 sampled_by=0.4.8.17 listed=1 confirmed_on=2025-08-05T00:01:23 confirmed_idx=0 pb_circ_attempts=19.000000 pb_circ_successes=19.000000 pb_successful_circuits_closed=18.000000 pb_collapsed_circuits=1.000000
+Guard in=default rsa_id=8982D5441E4CFD8A1D6A74056739AB2DA98D77A2 nickname=WilliamCarterW16147 sampled_on=2025-08-14T12:36:56 sampled_idx=2 sampled_by=0.4.8.17 listed=1 confirmed_on=2025-08-14T07:58:00 confirmed_idx=2
+Guard in=default rsa_id=DE74E8C4F3CF0FBBCB7E761BB3072050D1D4DD88 nickname=gergernet1 sampled_on=2025-08-06T17:43:26 sampled_idx=3 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=C7DD74BE3FEF62C7BC4C22FD8783ECB890438BF5 nickname=GermanCraft24 sampled_on=2025-08-06T06:31:48 sampled_idx=4 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=F02CAD0EAC632226659F292F4D0E8CC8C67046DF nickname=Triplebit56 sampled_on=2025-08-07T08:41:26 sampled_idx=5 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=00D90605910979CF1AB0E86D219E6171FB18BD43 nickname=relay1 sampled_on=2025-08-03T19:34:00 sampled_idx=6 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=F9975C17673E7B5C82B937E3BCFBE59EBAA4188E nickname=apollocreeed sampled_on=2025-08-13T11:39:41 sampled_idx=7 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=8EF390A0CAA31F6AD7A5E2BE7976F33476A245EC nickname=2fer sampled_on=2025-08-06T08:14:27 sampled_idx=8 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=FD2BA20C57787DDB69AA6E9AFA8983E683867DD2 nickname=kidcudi sampled_on=2025-08-06T22:22:57 sampled_idx=9 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=4ADB08AFCF04657E0A0288AA230EEB74A96B1CEE nickname=Lemminkainen sampled_on=2025-08-03T07:59:24 sampled_idx=10 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=89F0102AF42547F6BC1512024CB520BC1CFEB318 nickname=prsv sampled_on=2025-08-08T23:51:14 sampled_idx=11 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=7B842FB48CFF19898C8336A11CAA3F425C90F9B5 nickname=BiggerBetter sampled_on=2025-08-13T06:13:20 sampled_idx=12 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=1A8E6DD80965CDC154AFA792295FCB5940355F35 nickname=youngbloodz sampled_on=2025-08-05T01:23:56 sampled_idx=13 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=FFFA91F18663F8CCE8E725A2493F85B390B8D337 nickname=viennaOnTheWalk sampled_on=2025-08-09T22:32:59 sampled_idx=14 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=A7A6BAAE17FB162164327C34229E7D0D81D4DC82 nickname=gaara sampled_on=2025-08-11T01:57:22 sampled_idx=15 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=56927E61B51E6F363FB55498150A6DDFCF7077F2 nickname=Akka sampled_on=2025-08-06T17:01:09 sampled_idx=16 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=26EE0F3E2548AFB23FF7704631F47515019500E6 nickname=prsv sampled_on=2025-08-06T06:51:25 sampled_idx=17 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=71986901178D81CBFD56484308B301D873E0760C nickname=loudandproud sampled_on=2025-08-13T01:02:19 sampled_idx=18 sampled_by=0.4.8.17 listed=1
+Guard in=default rsa_id=F31010C737CB499BD87E49D747AD44A0A6B577A7 nickname=emirus sampled_on=2025-08-06T14:19:00 sampled_idx=19 sampled_by=0.4.8.17 listed=1
+LastWritten 2025-08-15 05:39:16
+MinutesSinceUserActivity 3
+TorVersion Tor 0.4.8.17 (git-e41649c9a34f39f1)
